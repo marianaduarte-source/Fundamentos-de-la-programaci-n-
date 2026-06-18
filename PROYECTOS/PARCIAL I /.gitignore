@@ -1,7 +1,5 @@
 .env
 .DS_Store
-GRADIO_P1/
-gradio-env/
 .gradio/
 __pycache__/
 *.pyc
