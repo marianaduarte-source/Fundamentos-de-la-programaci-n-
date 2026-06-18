@@ -1,5 +1,0 @@
-nombre = str(input( "¿Cómo te llamas?"))
-edad = int(input("¿Cuántos años tienes?"))
-boleto = int(input("¿Tienes boleto? (1 para sí, 0 para no)"))
-puede_entrar = edad >=18 and boleto ==1 
-print ("Hola", nombre + ", ¿puedes entrar al concierto?", puede_entrar)
